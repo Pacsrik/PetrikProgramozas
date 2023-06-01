@@ -1,0 +1,6 @@
+Ember és számítógép
+Nagyon sok hasonlóságot fedezhetünk fel az ember és a számítógép „mûködése” között.
+Az ember
+Az ember akusztikus (hang) és vizuális (képi) jelek formájában jut az információhoz, amelyeket a füleivel és a szemeivel érzékel, majd átalakítás után továbbít az agynak. Az agy rendezi, vizsgálja, összehasonlítja a beérkezett információt, és átmenetileg elraktározza azokat (emlékezet). Kimenetként a száj és az írás áll rendelkezésre. Az emlékezetben rögzített információk tartós tárolására például a papír vagy a magnetofonszalag szolgálhat. Az eltárolt információ a bemenetre is kerülhet, például egy leírt szöveg olvasásakor.
+A számítógép
+A számítógépek is a bemenet – feldolgozás – kimenet – tárolás elvén mûködnek. Bemenetként például a billentyûzet vagy az egér szolgálhat. Az átalakított információ a processzorhoz jut, ami feldolgozza a beérkezett jeleket. A processzor monitoron vagy nyomtató segítségével tudja az információt megjeleníteni, és memóriájában vagy merevlemezen tárolja azt. Az eltárolt információ bemenetként is szolgálhat, például egy félig kész szöveg betöltésekor.

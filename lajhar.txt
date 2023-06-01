@@ -1,0 +1,8 @@
+Név;életkor;kg;nem;utódokDb
+Mimi;8;4.5;nosteny;2
+Zippo;23;5.4;him;5
+Sid;10;5.3;him;0
+Alf;18;4.9;him;3
+Goonie;43;4.1;nosteny;6
+Luna;13;4.6;nosteny;3
+Iris;7;3.9;nosteny;0

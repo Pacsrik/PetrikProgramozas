@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Származtatott műveletek</title>
+	<link rel="stylesheet" href="style2.css">
+
+</head>
+
+<body>
+	<div>
+		<div>
+			<h2 class="boole"><a href="boole.html">Alapműveletek</a></h2>
+		</div>
+		<h2>Származtatott függvények</h2>
+	</div>
+
+	<p>	Van még néhány olyan kétváltozós függvény, amelyeknek gyakorlati jelentősége van.
+		Ezek a függvények visszavezethetők az alapműveletekre, ezért származtatott függvényeknek nevezzük őket:
+	</p>
+	<ul>
+		<li><b>Nem VAGY</b> (Not OR, NOR)</li>
+		<li><b>Kizáró VAGY</b> (antivalencia, exclusive OR, XOR)</li>
+		<li><b>Nem ÉS</b> (Not AND, NAND)</li>
+		<li><b>MegengedŐ ÉS</b> (ekvivalencia, NXOR)</li>
+	<p>A NOR függvény a VAGY művelet ellentettje (negáltja), és alapműveletekből felépített bármely összetett függvény kifejezhető kizárólag NOR műveletek alkalmazásával. Az XOR függvény az A és B operandusok bináris összegét képzi maradék nélkül, ezért a műveletvégző egységben van fontos szerepe. A NAND függvény az ÉS művelet negáltja, és alapműveletekből felépített bármely összetett függvény kifejezhető kizárólag NAND műveletek alkalmazásával, ráadásul a legegyszerűbben valósítható meg tranzisztorokkal. Az NXOR függvény az XOR függvény negáltja, két szám összehasonlítását végzi el, hiszen 1-gyel jelez, ha a két szám azonos, ha pedig különbözőek, akkor Y = 0.</p>
+	<table align="center" cellpadding="5" cellspacing="2">
+		<tr bgcolor="violet"><th>Függvény<th colspan="3">NOR<th colspan="3">XOR<th colspan="3">NAND<th colspan="3">NXOR
+		<tr bgcolor="violet"><th rowspan="5">Igazságtáblázat<td>A<td>B<td>Y<td>A<td>B<td>Y<td>A<td>B<td>Y<td>A<td>B<td>Y
+		<tr bgcolor="violet"><td>0<td>0<td>1<td>0<td>0<td>0<td>0<td>0<td>1<td>0<td>0<td>1
+		<tr bgcolor="violet"><td>0<td>1<td>0<td>0<td>1<td>1<td>0<td>1<td>1<td>0<td>1<td>0
+		<tr bgcolor="violet"><td>1<td>0<td>0<td>1<td>0<td>1<td>1<td>0<td>1<td>1<td>0<td>0
+		<tr bgcolor="violet"><td>1<td>1<td>0<td>1<td>1<td>0<td>1<td>1<td>0<td>1<td>1<td>1
+	</table>
+</body>
+</html>

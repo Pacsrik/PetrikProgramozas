@@ -1,0 +1,23 @@
+body {
+    font-family: 'Tahoma', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+a {
+    color: royalblue;
+}
+h1 {
+    color: rosybrown;
+}
+.row {
+    display: flex;
+}
+.imgContainer {
+    margin: 10px;
+    background-color: royalblue;
+}
+a:visited,
+a:active {
+    color: yellow;
+}

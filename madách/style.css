@@ -1,0 +1,42 @@
+body{
+    background-color: #ADD8E6;
+    color: #000080;
+    margin: 20px;
+}
+a:link {
+    color: #FF0000;
+} 
+a:visited {
+    color: #FF00FF;
+}
+a:hover, a:active {
+    color: #000000; 
+}
+
+#madach {
+    float: left;
+}
+#tragedia {
+    float: right;
+}
+
+.center{
+    text-align: center;
+}
+.szoveg{
+    text-align:justify;
+}
+strong{
+    color:green;
+}
+hr{
+    width: 50%;
+    height: 2px;
+    border: none;
+    background-color: navy;
+}
+#madach, #tragedia {
+    margin: 10px 20px;
+    width: 250px;
+    height: auto;
+}

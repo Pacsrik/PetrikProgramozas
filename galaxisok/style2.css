@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Tahoma', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3;
+}
+a {
+    color: royalblue;
+}
+a:visited {
+    color: yellow;
+}
+.mainContainer {
+    width: 450px;
+    margin: auto;
+}
+.subContainer {
+    width: 750px;
+    margin: auto;
+}

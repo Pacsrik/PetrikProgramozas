@@ -1,0 +1,69 @@
+body {
+    background-color: #FFCCAA;
+    font-family: 'Tahoma';
+}
+
+.fo {
+    max-width: 75vw;
+    margin: 0 auto;
+}
+
+.sor {
+    max-width: 75vw;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.vorosmarty {
+    width: 150px;
+    height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h1 {
+    color: #a04000;
+    margin: 0;
+}
+
+.mozart {
+    width: 100%;
+}
+
+.jobb {
+    text-align: right;
+}
+
+.kozep {
+    text-align: center;
+}
+
+.figaro {
+    width: 195px;
+    height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.szinhaz {
+    margin: 0;
+}
+
+a,
+a:visited,
+a:active {
+    color: #a04000;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.bold {
+    font-weight: bold;
+}

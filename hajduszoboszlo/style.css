@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+hr {
+    width: 50%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+img {
+    border: 1px solid rgb(0, 0, 0);
+}

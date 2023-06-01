@@ -1,0 +1,14 @@
+név;nemzetiség;foglalkozás
+Amelia Earhart;amerikai;pilóta
+Marie Curie;lengyel;fizikus
+Valentina Tereshkova;orosz;űrhajós
+Edith Wharton;amerikai;Pulitzer-díjas író
+Junko Tabei;japán;hegymászó
+Mary Edwards Walker;amerikai;sebész
+Mileva Marić;szerb;matematikus, fizikus
+Lise Meitner;osztrák;fizikus
+Telkes Mária;magyar;tudós, feltaláló
+Dorothy Crowfoot Hodgkin;brit;vegyész, kémikus, krisztallográfus
+Henrietta Swan Leavitt;amerikai;csillagász
+Ada Lovelace;brit;matematikus, írónő
+Szofja Vasziljevna Kovalevszkaja;orosz;matematikus

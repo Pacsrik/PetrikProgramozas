@@ -1,0 +1,61 @@
+body {
+    background-color: #808080;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sarga {
+    background-color: #FFFFCC;
+    padding: 3px;
+}
+
+.piros {
+    background-color: rgb(255, 204, 204);
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    padding: 3px;
+}
+
+.kek {
+    background-color: rgb(204, 204, 255);
+    padding: 3px;
+}
+
+img {
+    max-height: 100%;
+    max-width: 50vw;
+    display: block;
+    margin: auto;
+}
+
+.header {
+    color: white;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.col {
+    flex-basis: 50%;
+    height: 35vh;
+}
+
+.jobb {
+    text-align: right;
+    align-items: flex-end;
+}
+
+.bal {
+    text-align: left;
+    align-items: flex-start;
+}
+
+.kozep {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+}

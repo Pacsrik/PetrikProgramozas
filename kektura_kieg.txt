@@ -1,0 +1,4 @@
+1. Hány olyan szakasz van, ahol összességében többet kell lefelé menni, mint felfelé? Ha nincs ilyen szakasz, akkor a "Nincs olyan szakasz, ahol összességében többet kell lefelé menni, mint felfelé." szöveget írassa ki.
+
+2. Írassa ki, hány pecsételőhely van! Ha nincs pecsételőhely, akkor azt írassa ki, hogy nincs pecsételőhely! 
+
