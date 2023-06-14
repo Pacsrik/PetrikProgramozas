@@ -1,0 +1,13 @@
+LAN-SWITCH(config)#interface vlan1
+LAN-SWITCH(config-if)#no shutdown
+LAN-SWITCH(config-if)#exit
+LAN-SWITCH(config)#ip domain-name practice.com
+LAN-SWITCH(config)#crypto key generate rsa
+LAN-SWITCH(config)#ip ssh version 2
+LAN-SWITCH(config)#enable password sshpass
+LAN-SWITCH(config)#username admin secret sshpass
+LAN-SWITCH(config)#line vty 0 15
+LAN-SWITCH(config-line)#password sshpass
+LAN-SWITCH(config-line)#transport input ssh
+LAN-SWITCH(config-line)#login
+LAN-SWITCH(config-line)#exit
