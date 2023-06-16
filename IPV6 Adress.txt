@@ -1,0 +1,2 @@
+https://szit.hu/doku.php?id=oktatas:halozat:cisco:ipv6
+https://ipcisco.com/lesson/ipv6-configuration-on-cisco-packet-tracer/
