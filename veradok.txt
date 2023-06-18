@@ -1,0 +1,85 @@
+Nem Tamás;Alsófalva Ezmi u. 9;B Rh pozitív
+Kun Béla;Bélapátfalva Bili u. 17;AB Rh pozitív
+Fogarasi Árpád;Kocsord Objektum u. 1;B Rh pozitív
+Vagyok Ibolya;Demjén Csatorna u. 1;A Rh negatív
+Polgár Jenő;Polgárfalva Polgár u. 15;A Rh negatív
+Somogyi Erika;Szada Lenin u. 15.;AB Rh pozitív
+Szalacsi Sándor;Kocsord Nemtom u. 30;0 Rh negatív
+William Clinton;Ózd Wájtháusz u. 1;AB Rh negatív
+Sipos Károly;Tiszakécske Fürdő utca 15.;A Rh pozitív
+Ináncsi József;Szigetszentmiklós Ady u.96.;0 Rh negatív
+Kuti Kamilla;Szigetszentmiklós Vénusz u.1.;A Rh negatív
+Sipos Gábor;Bög Pici köz 5.;AB Rh negatív
+Varga Dóra;Szolnok Som köz 48.;A Rh pozitív
+Varga Tamás;Szeged Teve köz 45.;0 Rh negatív
+Szabó Éva;Mezőhegyes Béke u.16.;AB Rh pozitív
+Szabó Attila;Tiszakécske Szabolcskai u.1;AB Rh pozitív
+Sunyi Béla;Kecskemét Kossuth L. u.14.;0 Rh negatív
+Németh Noémi;Pécs Szabó köz 20.;AB Rh negatív
+Németh Sára;Eger Dobó utca 10.;0 Rh pozitív
+Balogh Jenő;Budapest Kossuth utca 23.;AB Rh pozitív
+Nagy Antal;Kecskemét Ó utca 3.;AB Rh negatív
+Végh József;Győr Körte utca. 23.;0 Rh pozitív
+Szigeti Sándor;Pécs Könyv utca 34.;B Rh negatív
+Horváth Kinga;Mosonmagyaróvár Kölcsey utca 182.;A Rh negatív
+Torgyán Andrea;Szeged Posztógyár utca 12.;AB Rh pozitív
+Kondor Katalin;Budapest Zrínyi utca 112.;AB Rh negatív
+Kovács Helga;Szombathely Alma utca 11.;0 Rh pozitív
+Pintér Sándor;Debrecen Petőfi utca 33.;0 Rh pozitív
+Bodor Enikő;Budapest Erdőalja út 8.;AB Rh negatív
+Céhes Eszter;Budapest Kossuth u. 78.;0 Rh negatív
+Takács Lilla;Szeged Agár u. 1.;B Rh negatív
+Bak Dániel;Vecsés Gyöngy u. 6.;AB Rh negatív
+Szabó Péter;Cegléd Cegléd u. 78.;AB Rh negatív
+Szokai Barbara;Dég Galambóc köz 96.;0 Rh pozitív
+Czeczei András;Tököl Repülő út 9.;B Rh pozitív
+Horváth Dezső;Budapest Cservenka u. 12.;AB Rh negatív
+Karap Béla;Szigliget Kölcsey u. 37.;B Rh pozitív
+Morvay Jenő;Pécs Fülemile köz 56.;B Rh pozitív
+Vígh József;Budapest Zsil u. 32;AB Rh pozitív
+Éliás Tóbiás;Zalaháza Péterfi u. 53;AB Rh pozitív
+Bomberra Krisztina;Pécs Maja u. 153;A Rh negatív
+Zsák Judit;Marosháza József u. 54;AB Rh pozitív
+Méh Erika;Bugyi Csipke u. 13;A Rh negatív
+Fritz Attila;Komárom Baross u. 765;AB Rh pozitív
+Vaal Máté;Vác Teréz u. 367;AB Rh negatív
+Kárai Kata;Pécs Vízvezeték u. 666;B Rh negatív
+Prezma Aurora;Gyál Majom u. 3445;B Rh pozitív
+Mária Terézia;Baja Gyorskocsi u. 323;A Rh negatív
+Asztal Sándor;Budapest Sötét u. 23;AB Rh pozitív
+Hűtő Béla;Dunafalva Bobby u. 665;0 Rh pozitív
+Gép Béla;Ráckeve Az u. 17;0 Rh pozitív
+Mayer Tamás;Miskolc Teknő u. 132;AB Rh pozitív
+Inger Rozália;Sopron Trianon u. 22;0 Rh negatív
+Csavar Pista;Szeged Killer u. 23;A Rh pozitív
+Víz Gizella;Berlin Szék u. 13;B Rh negatív
+Nem János;Visegrád Persze.u. 666;B Rh pozitív
+Prézli János;Szigetszentmiklós Oázis u.34;0 Rh negatív
+Gomb Sára;Debrecen Seholsincs u.4;A Rh negatív
+Czeczei Zsolt;Budapest Fülemile utca 7.;B Rh negatív
+Sarkadi Csaba;Budapest Fürdő utca 8.;AB Rh negatív
+Gábor Gizella;Pécs Fő tér 6548.;A Rh pozitív
+Gaz Julianna;Szombathely Hősők tere 45.;A Rh negatív
+Fül Elek;Szeged Kenguru sétány 15.;0 Rh negatív
+Dávid Ilona;Nemesvita Rákóczi Ferenc út 34.;0 Rh pozitív
+Presser Gábor;Tapolca Petőfi Sándor út 45.;A Rh pozitív
+Fehér Jakab;Eger Kölcsey Ferenc utca 4.;0 Rh negatív
+Szokai Kinga;Debrecen Dobó Béla kör 556.;A Rh pozitív
+Kodály Zoltán;Aggtelek Juhász István köz 45.;A Rh negatív
+Fekete Andrea;Biharkeresztes Aradi út 2.;A Rh negatív
+Seres András;Szekszárd Fő utca 145.;B Rh pozitív
+Károly Zoltán;Agárd Őz út 21.;AB Rh pozitív
+Barna Ágota;Veresegyháza Puli sétány 11.;A Rh negatív
+Balogh Éva;Ópusztaszer Rigó utca 14.;B Rh pozitív
+Szabó Dénes;Kisvárda Bab utca 7.;0 Rh negatív
+Kónya Anett;Szalkszentmárton Mátra utca 19.;A Rh pozitív
+Budai Antal;Győr Iskola tér 36.;0 Rh negatív
+Kovács János;Budapest Rákóczi tér 3.;B Rh negatív
+Lakatos Pál;Siófok Szajkó utca 6.;0 Rh pozitív
+Vonal Deodát;Pécs Sík u. 19.;A Rh pozitív
+Fritz Géza;Budapest Fény u. 23.;AB Rh pozitív
+Szabó András;Tas Erdő u. 34.;B Rh negatív
+Kiss Csilla;Bélatelep Örs u. 1.;B Rh pozitív
+Gulág Tóbiás;Budapest Nap u. 23.;A Rh pozitív
+Wesselényi Brúnó;Szarvas Állat u. 34.;0 Rh negatív
+Pán Péter;Andorváros Zulu u. 70.;0 Rh negatív
