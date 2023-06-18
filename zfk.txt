@@ -1,0 +1,17 @@
+Aladár;hátvéd;8;2
+Béla;hátvéd;10;2
+Csaba;csatár;7;10
+Dezső;csatár;8;11
+Elemér;középpályás;9;3
+Ferenc;középpályás;9;3
+Géza;csatár;9;4
+Marci;kapus;10;4
+Dávid;csatár;3;4
+Ábel;középpályás;4;2
+György;csatár;8;3
+Krisztián;középpályás;8;9
+Bence;hátvéd;3;1
+Gábor;középpályás;8;8
+Zsombor;kapus;4;0
+Kristóf;kapus;1;0
+
